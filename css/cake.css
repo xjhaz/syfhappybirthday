@@ -27,8 +27,8 @@ html, body {
     width: 100%;
     height: 100%;
     background: #ee9ca7;
-    background: -webkit-linear-gradient(top left, #ee9ca7 0%, #ee9ca7 100%);
-    background: linear-gradient(to bottom right, #ee9ca7 0%, #ee9ca7 100%);
+    background: -webkit-linear-gradient(top left, #5959AB 0%, #5959AB 100%);
+    background: linear-gradient(to bottom right, #5959AB 0%, #5959AB 100%);
 }
 
 .velas {
