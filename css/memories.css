@@ -150,7 +150,7 @@
 /*移动端*/
 @media screen and (max-aspect-ratio: 3/4){
 	.ly-box01 {
-		width:50px;
+		width:70px;
 		height:50px;
 		background-color:#FFF;
 		border-radius: 25px;
@@ -168,7 +168,7 @@
 @keyframes box_to_point_mobile{
 	0% {
 		margin-bottom:50%;
-		width:50px;
+		width:70px;
 		height:50px;
 		border-radius: 25px;
 		position: absolute;
