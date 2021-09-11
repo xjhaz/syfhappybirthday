@@ -465,7 +465,7 @@ html, body {
     border-radius: 30px;
     font-size: 23px;
     text-align: center;
-    background: #87CEFA;
+    background: #ee9ca7;
     transition: all 0.8s;
 }
 
@@ -480,7 +480,7 @@ html, body {
 }
 
 a.lk1:hover {
-    color: #87CEFA;
+    color: #ee9ca7;
     transition: all 0.5s;
 }
 
@@ -492,7 +492,7 @@ a.lk1:hover {
 }
 
 a.lk2:hover {
-    color: #87CEFA;
+    color: #ee9ca7;
     transition: all 0.5s;
 }
 
